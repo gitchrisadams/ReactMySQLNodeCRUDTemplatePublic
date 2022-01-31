@@ -39,8 +39,6 @@ CREATE TABLE `react_node_crud`.`employees` (
 `wage` INT NOT NULL,
 PRIMARY KEY (`id`))
 
-```
+## Update DB info
 
-
-
-```
+Be sure to add your db name, user, password, and any other db info that was changed to the index.js file in the `server` directory
