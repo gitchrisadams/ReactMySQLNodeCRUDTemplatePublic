@@ -27,7 +27,7 @@ https://dev.mysql.com/downloads/workbench/
 This can be used to create exact db I'm using:
 
 ```
-CREATE SCHEMA `react_node_crud
+CREATE SCHEMA react_node_crud
 ```
 
 CREATE TABLE `react_node_crud`.`employees` (
